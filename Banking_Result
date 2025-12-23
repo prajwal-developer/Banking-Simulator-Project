@@ -1,0 +1,99 @@
+
+=========Bank Menu=========
+1. Craete Account: 
+2. Deposite: 
+3. WithDraw: 
+4. Check Balance: 
+5. Transfer Money: 
+6. Transcation History: 
+7. Exit: 
+Enter Choice: 
+1
+Enter Name: 
+Prajwal
+Enter Account No: 
+111001101
+set 4 - digit pin
+0910
+Initial Deposite: 
+1000000
+account craeted successfully: 
+
+=========Bank Menu=========
+1. Craete Account: 
+2. Deposite: 
+3. WithDraw: 
+4. Check Balance: 
+5. Transfer Money: 
+6. Transcation History: 
+7. Exit: 
+Enter Choice: 
+2
+Enter Acc No: 
+111001101
+Enter PIN: 
+0910
+Enter Amount: 
+4000
+Deposited successfully!
+
+=========Bank Menu=========
+1. Craete Account: 
+2. Deposite: 
+3. WithDraw: 
+4. Check Balance: 
+5. Transfer Money: 
+6. Transcation History: 
+7. Exit: 
+Enter Choice: 
+3
+Enter Acc No: 
+111001101
+Enter PIN: 
+0910
+Enter Amount: 
+2000
+Withdrawal succesfully!
+
+=========Bank Menu=========
+1. Craete Account: 
+2. Deposite: 
+3. WithDraw: 
+4. Check Balance: 
+5. Transfer Money: 
+6. Transcation History: 
+7. Exit: 
+Enter Choice: 
+4
+Enter Acc No: 
+111001101
+Enter PIN: 
+0910
+current balance: 1002000.0
+
+=========Bank Menu=========
+1. Craete Account: 
+2. Deposite: 
+3. WithDraw: 
+4. Check Balance: 
+5. Transfer Money: 
+6. Transcation History: 
+7. Exit: 
+Enter Choice: 
+5
+Enter Acc No: 
+111001101
+Enter PIN: 
+0910
+Enter receiver Acc No: 222002202
+Receiver not found!
+
+=========Bank Menu=========
+1. Craete Account: 
+2. Deposite: 
+3. WithDraw: 
+4. Check Balance: 
+5. Transfer Money: 
+6. Transcation History: 
+7. Exit: 
+Enter Choice: 
