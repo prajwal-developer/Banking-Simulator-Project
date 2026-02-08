@@ -1,99 +1,207 @@
 
-=========Bank Menu=========
-1. Craete Account: 
+===== Bank Menu =====
+1. Create Account: 
 2. Deposite: 
-3. WithDraw: 
+3. WithDraw
 4. Check Balance: 
 5. Transfer Money: 
-6. Transcation History: 
+6. Transaction History: 
 7. Exit: 
+
+Enter Choice: 
+1
+Enter Name: 
+Chethan
+Enter Account No: 
+11110000
+set 4 - digit pin
+1111
+Initial Deposite: 
+10000
+account created successfully: 
+
+===== Bank Menu =====
+1. Create Account: 
+2. Deposite: 
+3. WithDraw
+4. Check Balance: 
+5. Transfer Money: 
+6. Transaction History: 
+7. Exit: 
+
+Enter Choice: 
+2
+Enter Acc No: 
+11110000
+Enter PIN: 
+1111
+Enter Amount: 
+2000
+Deposited Successfully!
+
+===== Bank Menu =====
+1. Create Account: 
+2. Deposite: 
+3. WithDraw
+4. Check Balance: 
+5. Transfer Money: 
+6. Transaction History: 
+7. Exit: 
+
+Enter Choice: 
+3
+Enter Acc No: 
+11110000
+Enter PIN: 
+1111
+Enter Amount: 
+4000
+Withdrawal Successfully!
+
+===== Bank Menu =====
+1. Create Account: 
+2. Deposite: 
+3. WithDraw
+4. Check Balance: 
+5. Transfer Money: 
+6. Transaction History: 
+7. Exit: 
+
+Enter Choice: 
+4
+Enter Acc No: 
+11110000
+Enter PIN: 
+1111
+current balance: 8000.0
+
+===== Bank Menu =====
+1. Create Account: 
+2. Deposite: 
+3. WithDraw
+4. Check Balance: 
+5. Transfer Money: 
+6. Transaction History: 
+7. Exit: 
+
 Enter Choice: 
 1
 Enter Name: 
 Prajwal
 Enter Account No: 
-111001101
+22220000
 set 4 - digit pin
-0910
+2222
 Initial Deposite: 
-1000000
-account craeted successfully: 
+5000
+account created successfully: 
 
-=========Bank Menu=========
-1. Craete Account: 
+===== Bank Menu =====
+1. Create Account: 
 2. Deposite: 
-3. WithDraw: 
+3. WithDraw
 4. Check Balance: 
 5. Transfer Money: 
-6. Transcation History: 
+6. Transaction History: 
 7. Exit: 
-Enter Choice: 
-2
-Enter Acc No: 
-111001101
-Enter PIN: 
-0910
-Enter Amount: 
-4000
-Deposited successfully!
 
-=========Bank Menu=========
-1. Craete Account: 
-2. Deposite: 
-3. WithDraw: 
-4. Check Balance: 
-5. Transfer Money: 
-6. Transcation History: 
-7. Exit: 
-Enter Choice: 
-3
-Enter Acc No: 
-111001101
-Enter PIN: 
-0910
-Enter Amount: 
-2000
-Withdrawal succesfully!
-
-=========Bank Menu=========
-1. Craete Account: 
-2. Deposite: 
-3. WithDraw: 
-4. Check Balance: 
-5. Transfer Money: 
-6. Transcation History: 
-7. Exit: 
-Enter Choice: 
-4
-Enter Acc No: 
-111001101
-Enter PIN: 
-0910
-current balance: 1002000.0
-
-=========Bank Menu=========
-1. Craete Account: 
-2. Deposite: 
-3. WithDraw: 
-4. Check Balance: 
-5. Transfer Money: 
-6. Transcation History: 
-7. Exit: 
 Enter Choice: 
 5
 Enter Acc No: 
-111001101
+11110000
 Enter PIN: 
-0910
-Enter receiver Acc No: 222002202
-Receiver not found!
+1111
+Enter receiver Acc No: 
+22220000
+Enter amount: 
+6000
+Transferd Successfully!
 
-=========Bank Menu=========
-1. Craete Account: 
+===== Bank Menu =====
+1. Create Account: 
 2. Deposite: 
-3. WithDraw: 
+3. WithDraw
 4. Check Balance: 
 5. Transfer Money: 
-6. Transcation History: 
+6. Transaction History: 
 7. Exit: 
+
 Enter Choice: 
+4
+Enter Acc No: 
+11110000
+Enter PIN: 
+1111
+current balance: 2000.0
+
+===== Bank Menu =====
+1. Create Account: 
+2. Deposite: 
+3. WithDraw
+4. Check Balance: 
+5. Transfer Money: 
+6. Transaction History: 
+7. Exit: 
+
+Enter Choice: 
+4
+Enter Acc No: 
+22220000
+Enter PIN: 
+2222
+current balance: 8000.0
+
+===== Bank Menu =====
+1. Create Account: 
+2. Deposite: 
+3. WithDraw
+4. Check Balance: 
+5. Transfer Money: 
+6. Transaction History: 
+7. Exit: 
+
+Enter Choice: 
+6
+Enter Acc No: 
+11110000
+Enter PIN: 
+1111
+
+.....Transaction History....
+account created with balance: 10000.0
+Deposited: 2000.0
+Withdraw: 4000.0
+Transfered 6000.0 to Acc No: 22220000
+
+===== Bank Menu =====
+1. Create Account: 
+2. Deposite: 
+3. WithDraw
+4. Check Balance: 
+5. Transfer Money: 
+6. Transaction History: 
+7. Exit: 
+
+Enter Choice: 
+6
+Enter Acc No: 
+22220000
+Enter PIN: 
+2222
+
+.....Transaction History....
+account created with balance: 5000.0
+Received 6000.0 from Acc No: 11110000
+
+===== Bank Menu =====
+1. Create Account: 
+2. Deposite: 
+3. WithDraw
+4. Check Balance: 
+5. Transfer Money: 
+6. Transaction History: 
+7. Exit: 
+
+Enter Choice: 
+7
+Thank you for using Bank! 
